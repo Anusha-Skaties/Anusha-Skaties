@@ -1,741 +1,396 @@
-<!--
- ██████╗ ███████╗███╗   ██╗    █████╗ ██╗    ███████╗██████╗ ███████╗ ██████╗██╗ █████╗ ██╗     ██╗███████╗████████╗
-██╔════╝ ██╔════╝████╗  ██║   ██╔══██╗██║    ██╔════╝██╔══██╗██╔════╝██╔════╝██║██╔══██╗██║     ██║██╔════╝╚══██╔══╝
-██║  ███╗█████╗  ██╔██╗ ██║   ███████║██║    ███████╗██████╔╝█████╗  ██║     ██║███████║██║     ██║███████╗   ██║   
-██║   ██║██╔══╝  ██║╚██╗██║   ██╔══██║██║    ╚════██║██╔═══╝ ██╔══╝  ██║     ██║██╔══██║██║     ██║╚════██║   ██║   
-╚██████╔╝███████╗██║ ╚████║   ██║  ██║██║    ███████║██║     ███████╗╚██████╗██║██║  ██║███████╗██║███████║   ██║   
- ╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝  ╚═╝╚═╝    ╚══════╝╚═╝     ╚══════╝ ╚═════╝╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚══════╝   ╚═╝   
-                                  & D A T A   S C I E N C E   A R C H I T E C T
--->
+Based on the details from your existing portfolio, I've created a complete, professional, and visually stunning single-page web portfolio for you. It's designed to be hosted on a website and features a modern, interactive design that highlights your expertise in GenAI, Data Science, and MLOps.
 
-<div align="center">
+This portfolio is built as a **Single Page Application (SPA)**, ensuring a seamless user experience without page reloads. The layout is structured to tell your professional story, starting with a powerful hero section and moving logically through your skills, experience, and projects.
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,100:4A00E0&height=300&section=header&text=ANUSHA%20YARAMALA&fontSize=70&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20GENAI%20SPECIALIST%20◉%20DATA%20SCIENTIST%20◉%20ML%20ENGINEER%20◉&descSize=18&descAlign=50&descAlignY=75" />
+You can copy and paste the entire code below into a single HTML file (e.g., `index.html`) to launch your new portfolio.
 
-<br/>
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anusha Yaramala - GenAI & Data Science Architect</title>
+    <meta name="description" content="Anusha Yaramala is a GenAI Specialist, Data Scientist, and MLOps Engineer with 4+ years of experience building next-gen AI solutions.">
 
-<!-- Animated Code Terminal -->
-
-```bash
-┌─[anusha@genai-lab]─[~/projects/llm-systems]
-└──╼ $ whoami
-Certified GenAI Specialist • Data Scientist • MLOps Engineer
-
-┌─[anusha@genai-lab]─[~/achievements]
-└──╼ $ ls -la
-total 4096
-drwxr-xr-x  1 research paper in top-tier journal
-drwxr-xr-x  4+ years of cutting-edge AI/ML development
-drwxr-xr-x  Multi-modal RAG systems deployed at scale
--rw-r--r--  40% reduction in manual customer calls
--rw-r--r--  70% GPU memory usage optimization
--rw-r--r--  91.68% F1 score on neural network models
--rw-r--r--  35% improvement in query performance
-
-┌─[anusha@genai-lab]─[~/current-mission]
-└──╼ $ cat vision.txt
-Architecting next-gen GenAI solutions with LLMs, RAG systems, and MLOps at scale 🚀
-```
-
-<br/>
-
-<!-- Elite Contact Matrix -->
-<table align="center">
-<tr>
-<td align="center" width="200px">
-<img src="https://img.shields.io/badge/📱_+1_(940)_977--1496-FF6B6B?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=E74C3C"/>
-</td>
-<td align="center" width="200px">
-<img src="https://img.shields.io/badge/📧_anushayaramala31@gmail.com-4ECDC4?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=1ABC9C"/>
-</td>
-<td align="center" width="200px">
-<img src="https://img.shields.io/badge/📍_Texas,_USA-F39C12?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=E67E22"/>
-</td>
-</tr>
-</table>
-
-<!-- Professional Network -->
-<p align="center">
-<a href="https://linkedin.com/in/anushayaramala">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=004182" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/anushayaramala">
-<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=171515&color=000000" />
-</a>&nbsp;&nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722&color=E64A19" />
-</a>&nbsp;&nbsp;
-<a href="https://scholar.google.com">
-<img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=4285F4&color=1976D2" />
-</a>
-</p>
-
-</div>
-
-<!-- Elite About Section -->
-<div align="center">
-
-## 🎯 **TRIPLE EXPERTISE IN AI/ML/DATA**
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 **GENAI & ML MASTERY**
-
-```python
-class GenAIArchitect implements Innovation {
-  expertise = {
-    'genai': ['Multi-modal RAG', 'GPT-4', 'Claude', 'LangChain', 'Semantic Search'],
-    'ml_ops': ['MLFlow', 'Model Deployment', 'CI/CD Pipelines', 'AutoML'],
-    'data_science': ['Deep Learning', 'NLP', 'Computer Vision', 'Time Series'],
-    'cloud': ['AWS', 'Azure', 'GCP', 'Databricks', 'BigQuery'],
-    'big_data': ['PySpark', 'Kafka', 'Snowflake', 'Delta Lake', 'Airflow']
-  }
-  
-  def deploy_rag_system(self):
-    """
-    Multi-modal RAG with vector databases
-    - 40% reduction in manual operations
-    - 70% GPU memory optimization
-    - Sub-second response times
-    """
-    return self.llm.chain(
-      retrieval='FAISS/Pinecone',
-      generation='GPT-4/Claude',
-      fine_tuning='QLoRA/RLHF'
-    )
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
     
-  def optimize_ml_pipeline(self):
-    """91.68% F1 score with 35% faster training"""
-    return self.neural_net.optimize()
-}
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        :root {
+            --primary-color: #4A00E0; /* A deep, rich violet */
+            --secondary-color: #8E2DE2; /* A vibrant purple */
+            --text-dark: #1F2937;
+            --text-light: #f9fafb;
+            --bg-light: #FFFFFF;
+            --bg-dark: #0F172A;
+        }
+
+        html { scroll-behavior: smooth; }
+        body { font-family: 'Inter', sans-serif; background-color: var(--bg-light); color: var(--text-dark); }
+        h1, h2 { font-family: 'Playfair Display', serif; }
+
+        .btn-primary {
+            background-image: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+            color: var(--text-light);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        .nav-link.active {
+            color: var(--primary-color);
+            border-bottom: 2px solid var(--primary-color);
+        }
+        .nav-link:hover {
+            color: var(--primary-color);
+        }
+        .section-header {
+            color: var(--primary-color);
+            position: relative;
+            display: inline-block;
+        }
+        .section-header::after {
+            content: '';
+            position: absolute;
+            bottom: -8px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60%;
+            height: 2px;
+            background-color: var(--secondary-color);
+        }
+
+        .card {
+            background-color: #F3F4F6;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+        }
+        .icon {
+            color: var(--primary-color);
+            transition: transform 0.3s ease;
+        }
+        .card:hover .icon {
+            transform: scale(1.1);
+        }
+
+        .animate-on-scroll {
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+        }
+        .animate-on-scroll.is-visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    </style>
+</head>
+<body class="bg-gray-50">
+
+    <nav id="navbar" class="fixed top-0 left-0 w-full bg-white bg-opacity-90 backdrop-blur-sm z-50 shadow-md">
+        <div class="container mx-auto px-6 py-4 flex justify-between items-center">
+            <a href="#hero" class="text-2xl font-bold text-gray-800">ANUSHA</a>
+            <div class="hidden md:flex space-x-8">
+                <a href="#about" class="nav-link text-gray-600 font-medium transition-colors">About</a>
+                <a href="#experience" class="nav-link text-gray-600 font-medium transition-colors">Experience</a>
+                <a href="#projects" class="nav-link text-gray-600 font-medium transition-colors">Projects</a>
+                <a href="#contact" class="nav-link text-gray-600 font-medium transition-colors">Contact</a>
+            </div>
+            <button id="mobile-menu-btn" class="md:hidden text-gray-800 focus:outline-none">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path></svg>
+            </button>
+        </div>
+        <div id="mobile-menu" class="hidden md:hidden bg-white">
+            <a href="#about" class="block py-3 px-6 text-gray-600 font-medium">About</a>
+            <a href="#experience" class="block py-3 px-6 text-gray-600 font-medium">Experience</a>
+            <a href="#projects" class="block py-3 px-6 text-gray-600 font-medium">Projects</a>
+            <a href="#contact" class="block py-3 px-6 text-gray-600 font-medium">Contact</a>
+        </div>
+    </nav>
+
+    <main class="pt-24">
+        <section id="hero" class="container mx-auto px-6 py-16 text-center animate-on-scroll">
+            <div class="w-32 h-32 rounded-full mx-auto mb-4 border-4 border-white shadow-lg overflow-hidden">
+                <img src="https://via.placeholder.com/150" alt="Anusha Yaramala" class="w-full h-full object-cover">
+            </div>
+            <h1 class="text-5xl font-extrabold text-gray-900 leading-tight">
+                Anusha Yaramala
+            </h1>
+            <p class="mt-4 text-xl text-gray-600 max-w-2xl mx-auto">
+                Certified GenAI Specialist | Data Scientist | MLOps Engineer
+            </p>
+            <div class="mt-8 space-x-4">
+                <a href="#projects" class="btn-primary inline-block py-3 px-8 rounded-full font-semibold text-lg">
+                    View My Work
+                </a>
+                <a href="#contact" class="inline-block py-3 px-8 rounded-full border-2 border-gray-400 text-gray-700 font-semibold text-lg hover:bg-gray-100 transition">
+                    Get in Touch
+                </a>
+            </div>
+        </section>
+
+        <section id="about" class="container mx-auto px-6 py-16 animate-on-scroll">
+            <h2 class="text-4xl font-bold text-center section-header mb-12">About Me</h2>
+            <div class="bg-white rounded-xl shadow-lg p-8 md:p-12">
+                <p class="text-lg text-gray-600 leading-relaxed mb-6">
+                    With over 4 years of hands-on experience, I am a GenAI specialist and data science architect with a proven track record of designing and deploying cutting-edge AI/ML solutions. My expertise spans the entire lifecycle, from building robust ETL pipelines to architecting and fine-tuning large language models.
+                </p>
+                <p class="text-lg text-gray-600 leading-relaxed">
+                    I thrive on solving complex business problems with measurable impact, as demonstrated by my work in reducing operational costs, optimizing performance, and driving innovation at companies like Brighthouse Financial, Texas Instruments, and Deutsche Bank. My passion lies in architecting next-gen GenAI solutions that transform data into intelligence at scale.
+                </p>
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mt-12">
+                    <div class="text-center">
+                        <span class="text-5xl font-bold text-primary-color">4+</span>
+                        <p class="text-gray-500 mt-2 font-medium">Years of Experience</p>
+                    </div>
+                    <div class="text-center">
+                        <span class="text-5xl font-bold text-primary-color">91.68%</span>
+                        <p class="text-gray-500 mt-2 font-medium">Highest F1 Score</p>
+                    </div>
+                    <div class="text-center">
+                        <span class="text-5xl font-bold text-primary-color">40%</span>
+                        <p class="text-gray-500 mt-2 font-medium">Reduction in Manual Calls</p>
+                    </div>
+                    <div class="text-center">
+                        <span class="text-5xl font-bold text-primary-color">1</span>
+                        <p class="text-gray-500 mt-2 font-medium">Research Publication</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="experience" class="container mx-auto px-6 py-16 animate-on-scroll">
+            <h2 class="text-4xl font-bold text-center section-header mb-12">Professional Experience</h2>
+            <div class="grid grid-cols-1 gap-12">
+                <div class="card p-6 rounded-xl shadow-md">
+                    <div class="md:flex md:justify-between md:items-start">
+                        <div>
+                            <h3 class="text-2xl font-bold text-gray-800">GenAI Specialist</h3>
+                            <p class="text-lg text-gray-600">Brighthouse Financial | Sept 2024 – Present</p>
+                        </div>
+                        <span class="mt-2 md:mt-0 px-4 py-1 text-sm font-semibold text-white bg-primary-color rounded-full">Current Role</span>
+                    </div>
+                    <ul class="list-disc list-inside mt-4 text-gray-700 space-y-2">
+                        <li>Architected and deployed a multi-modal RAG system using GPT-4, Claude, and BERT, resulting in a **40% reduction in manual customer service calls**.</li>
+                        <li>Optimized GPU memory usage by **70%** and reduced model training time by **30%** through fine-tuning techniques like QLoRA and RLHF.</li>
+                        <li>Developed and orchestrated intelligent chatbot agents using LangChain and vector databases like Pinecone and FAISS.</li>
+                    </ul>
+                </div>
+
+                <div class="card p-6 rounded-xl shadow-md">
+                    <div class="md:flex md:justify-between md:items-start">
+                        <div>
+                            <h3 class="text-2xl font-bold text-gray-800">Neural Network Engineer</h3>
+                            <p class="text-lg text-gray-600">Texas Instruments | Feb 2023 – Jul 2024</p>
+                        </div>
+                    </div>
+                    <ul class="list-disc list-inside mt-4 text-gray-700 space-y-2">
+                        <li>Led the development of deep learning models in Keras and PyTorch, achieving a peak **91.68% F1 score**.</li>
+                        <li>Improved text analysis efficiency by **70%** by implementing custom Named Entity Recognition (NER) and sentiment analysis pipelines.</li>
+                        <li>Automated MLOps pipelines on Azure and AWS SageMaker, cutting model production deployment time by **30%**.</li>
+                    </ul>
+                </div>
+
+                <div class="card p-6 rounded-xl shadow-md">
+                    <div class="md:flex md:justify-between md:items-start">
+                        <div>
+                            <h3 class="text-2xl font-bold text-gray-800">Data Engineer</h3>
+                            <p class="text-lg text-gray-600">Deutsche Bank | May 2021 – Jul 2022</p>
+                        </div>
+                    </div>
+                    <ul class="list-disc list-inside mt-4 text-gray-700 space-y-2">
+                        <li>Optimized SQL queries and PySpark workflows, resulting in a **35% performance improvement** and a **40% reduction** in data transformation time.</li>
+                        <li>Developed and automated over **100 Airflow workflows** to handle large-scale ETL, processing up to 2 million records in minutes.</li>
+                        <li>Designed real-time data streaming architectures using Kafka and Google Cloud Pub/Sub.</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section id="projects" class="container mx-auto px-6 py-16 animate-on-scroll">
+            <h2 class="text-4xl font-bold text-center section-header mb-12">Flagship Projects</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
+                <div class="card p-8 rounded-xl shadow-md">
+                    <h3 class="text-2xl font-bold text-gray-800 mb-2">YouTube Trend Analysis</h3>
+                    <p class="text-gray-600 mb-4">Scalable Data Pipeline on AWS</p>
+                    <ul class="list-disc list-inside text-gray-700 space-y-2">
+                        <li>Engineered a fully automated serverless ETL pipeline using AWS Glue and Lambda.</li>
+                        <li>Processed over **1 million records daily** with sub-minute data ingestion.</li>
+                        <li>Developed interactive dashboards in AWS QuickSight to visualize real-time trends.</li>
+                    </ul>
+                    <div class="mt-6 flex space-x-4">
+                        <a href="https://github.com/anushayaramala" target="_blank" class="text-gray-600 hover:text-primary-color transition-colors">
+                            <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.418 2.864 8.125 6.83 9.497.5.092.682-.217.682-.483 0-.237-.008-.867-.013-1.7-2.782.604-3.37-1.34-3.37-1.34-.454-1.156-1.11-1.465-1.11-1.465-.908-.62.069-.608.069-.608 1.004.07 1.532 1.03 1.532 1.03.89 1.528 2.336 1.087 2.906.832.09-.64.35-1.087.636-1.334-2.217-.253-4.555-1.108-4.555-4.933 0-1.087.387-1.979 1.026-2.674-.103-.253-.446-1.266.098-2.635 0 0 .84-.268 2.75 1.025.798-.223 1.649-.335 2.498-.339 2.503.004 3.354.116 4.152.339 1.91-1.293 2.748-1.025 2.748-1.025.545 1.37.202 2.382.099 2.635.64.695 1.025 1.587 1.025 2.674 0 3.834-2.34 4.68-4.562 4.925.358.307.676.917.676 1.848 0 1.335-.012 2.415-.012 2.742 0 .267.18.579.688.484 3.96-1.372 6.825-5.078 6.825-9.496C22 6.484 17.523 2 12 2Z" clip-rule="evenodd" /></svg>
+                        </a>
+                        </div>
+                </div>
+
+                <div class="card p-8 rounded-xl shadow-md">
+                    <h3 class="text-2xl font-bold text-gray-800 mb-2">Research Publication</h3>
+                    <p class="text-gray-600 mb-4">AI Application in Materials Science</p>
+                    <ul class="list-disc list-inside text-gray-700 space-y-2">
+                        <li>Authored and published a research paper on using neural networks to model hybrid composite materials.</li>
+                        <li>Developed a custom ANN architecture to predict material properties with high accuracy.</li>
+                        <li>Contributed to the field of AI-driven materials discovery and manufacturing optimization.</li>
+                    </ul>
+                    <div class="mt-6 flex space-x-4">
+                        <a href="https://scholar.google.com" target="_blank" class="text-gray-600 hover:text-primary-color transition-colors">
+                            <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 12c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm-8-8v12h4V8h8V4H4zm16 0H12v4h8V4z" fill-rule="evenodd" clip-rule="evenodd"></path></svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="skills" class="container mx-auto px-6 py-16 animate-on-scroll">
+            <h2 class="text-4xl font-bold text-center section-header mb-12">Core Competencies</h2>
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+                <div class="bg-white p-6 rounded-xl shadow-md border-l-4 border-primary-color">
+                    <div class="flex items-center mb-3">
+                        <svg class="w-8 h-8 mr-2 text-primary-color" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" /></svg>
+                        <h3 class="text-xl font-bold">Generative AI</h3>
+                    </div>
+                    <ul class="text-gray-700 list-disc list-inside space-y-1">
+                        <li>Multi-modal RAG</li>
+                        <li>LLM Fine-tuning (QLoRA/RLHF)</li>
+                        <li>Vector Databases</li>
+                        <li>Prompt Engineering</li>
+                    </ul>
+                </div>
+                <div class="bg-white p-6 rounded-xl shadow-md border-l-4 border-primary-color">
+                    <div class="flex items-center mb-3">
+                        <svg class="w-8 h-8 mr-2 text-primary-color" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M12 8c1.657 0 3 1.343 3 3v2a3 3 0 01-3 3c-1.657 0-3-1.343-3-3v-2a3 3 0 013-3zM8 8V7a4 4 0 118 0v1" /></svg>
+                        <h3 class="text-xl font-bold">Data Science</h3>
+                    </div>
+                    <ul class="text-gray-700 list-disc list-inside space-y-1">
+                        <li>Deep Learning (CNN/RNN/ANN)</li>
+                        <li>NLP & Computer Vision</li>
+                        <li>Predictive Analytics</li>
+                        <li>Statistical Modeling</li>
+                    </ul>
+                </div>
+                <div class="bg-white p-6 rounded-xl shadow-md border-l-4 border-primary-color">
+                    <div class="flex items-center mb-3">
+                        <svg class="w-8 h-8 mr-2 text-primary-color" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.227.608 3.223 0z" /><path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" /></svg>
+                        <h3 class="text-xl font-bold">MLOps</h3>
+                    </div>
+                    <ul class="text-gray-700 list-disc list-inside space-y-1">
+                        <li>Model Deployment</li>
+                        <li>Pipeline Automation</li>
+                        <li>CI/CD for ML</li>
+                        <li>Cloud Infrastructure</li>
+                    </ul>
+                </div>
+                <div class="bg-white p-6 rounded-xl shadow-md border-l-4 border-primary-color">
+                    <div class="flex items-center mb-3">
+                        <svg class="w-8 h-8 mr-2 text-primary-color" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14m-6 0a2 2 0 002 2h2a2 2 0 002-2" /></svg>
+                        <h3 class="text-xl font-bold">Data Engineering</h3>
+                    </div>
+                    <ul class="text-gray-700 list-disc list-inside space-y-1">
+                        <li>ETL Pipelines</li>
+                        <li>Big Data Processing</li>
+                        <li>Real-time Streaming</li>
+                        <li>Query Optimization</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact" class="container mx-auto px-6 py-16 animate-on-scroll">
+            <h2 class="text-4xl font-bold text-center section-header mb-12">Let's Connect</h2>
+            <div class="max-w-3xl mx-auto bg-white rounded-xl shadow-lg p-8 md:p-12 text-center">
+                <p class="text-lg text-gray-600 mb-6">
+                    I'm open to new opportunities and collaborations. Feel free to reach out to discuss how my expertise can help your organization.
+                </p>
+                <div class="flex justify-center space-x-6">
+                    <a href="https://linkedin.com/in/anushayaramala" target="_blank" class="text-gray-600 hover:text-primary-color transition-colors">
+                        <svg class="w-10 h-10" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.564-4 0v5.604h-3v-11h3v1.765c1.395-2.536 4-2.764 4-2.764-2.209 0-4.004-.84-4.523-2.144z"/></svg>
+                    </a>
+                    <a href="https://github.com/anushayaramala" target="_blank" class="text-gray-600 hover:text-primary-color transition-colors">
+                        <svg class="w-10 h-10" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.418 2.864 8.125 6.83 9.497.5.092.682-.217.682-.483 0-.237-.008-.867-.013-1.7-2.782.604-3.37-1.34-3.37-1.34-.454-1.156-1.11-1.465-1.11-1.465-.908-.62.069-.608.069-.608 1.004.07 1.532 1.03 1.532 1.03.89 1.528 2.336 1.087 2.906.832.09-.64.35-1.087.636-1.334-2.217-.253-4.555-1.108-4.555-4.933 0-1.087.387-1.979 1.026-2.674-.103-.253-.446-1.266.098-2.635 0 0 .84-.268 2.75 1.025.798-.223 1.649-.335 2.498-.339 2.503.004 3.354.116 4.152.339 1.91-1.293 2.748-1.025 2.748-1.025.545 1.37.202 2.382.099 2.635.64.695 1.025 1.587 1.025 2.674 0 3.834-2.34 4.68-4.562 4.925.358.307.676.917.676 1.848 0 1.335-.012 2.415-.012 2.742 0 .267.18.579.688.484 3.96-1.372 6.825-5.078 6.825-9.496C22 6.484 17.523 2 12 2Z" clip-rule="evenodd" /></svg>
+                    </a>
+                    <a href="mailto:anushayaramala31@gmail.com" class="text-gray-600 hover:text-primary-color transition-colors">
+                        <svg class="w-10 h-10" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M22 6c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6zm-2 0l-8 5-8-5h16zm0 12H4V8l8 5 8-5v10z" /></svg>
+                    </a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="bg-gray-800 text-gray-300 py-8 text-center mt-12">
+        <div class="container mx-auto px-6">
+            <p>&copy; 2024 Anusha Yaramala. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Mobile Menu Toggle
+            const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+            const mobileMenu = document.getElementById('mobile-menu');
+            mobileMenuBtn.addEventListener('click', () => {
+                mobileMenu.classList.toggle('hidden');
+            });
+            mobileMenu.addEventListener('click', () => {
+                mobileMenu.classList.add('hidden');
+            });
+
+            // Smooth Scroll & Active Nav Link
+            const navLinks = document.querySelectorAll('#navbar a');
+            navLinks.forEach(link => {
+                link.addEventListener('click', (e) => {
+                    const href = link.getAttribute('href');
+                    if (href.startsWith('#')) {
+                        e.preventDefault();
+                        const targetId = href.substring(1);
+                        const targetSection = document.getElementById(targetId);
+                        if (targetSection) {
+                            window.scrollTo({
+                                top: targetSection.offsetTop - document.getElementById('navbar').offsetHeight,
+                                behavior: 'smooth'
+                            });
+                        }
+                    }
+                });
+            });
+
+            const sections = document.querySelectorAll('section[id]');
+            const observerOptions = {
+                root: null,
+                threshold: 0.3,
+                rootMargin: `-${document.getElementById('navbar').offsetHeight}px 0px 0px 0px`
+            };
+
+            const observer = new IntersectionObserver((entries, observer) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        const activeId = entry.target.id;
+                        navLinks.forEach(link => {
+                            if (link.getAttribute('href') === `#${activeId}`) {
+                                link.classList.add('active');
+                            } else {
+                                link.classList.remove('active');
+                            }
+                        });
+                        entry.target.classList.add('is-visible');
+                    }
+                });
+            }, observerOptions);
+
+            sections.forEach(section => {
+                observer.observe(section);
+            });
+        });
+    </script>
+
+</body>
+</html>
 ```
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 **MEASURABLE IMPACT**
-
-```yaml
-business_impact:
-  brighthouse_financial:
-    chatbot_efficiency: "40% reduction in manual calls"
-    gpu_optimization: "70% memory usage reduction"
-    training_speed: "30% faster model training"
-    
-  texas_instruments:
-    model_performance: "91.68% F1 score achieved"
-    nlp_efficiency: "70% text analysis improvement"
-    deployment_speed: "30% faster production deployment"
-    complexity_reduction: "35% computational optimization"
-    
-  deutsche_bank:
-    query_performance: "35% faster SQL queries"
-    data_processing: "40% reduction in transformation time"
-    etl_efficiency: "100K-2M records in 2-10 minutes"
-    workflow_automation: "100+ Airflow jobs optimized"
-    
-  vodafone:
-    query_optimization: "40% faster stored procedures"
-    real_time_insights: "Real-time dashboards deployed"
-
-certifications:
-  - "Oracle Cloud Infrastructure GenAI Certified"
-  - "AWS Certified Cloud Practitioner"
-  - "Databricks Certified Developer"
-```
-
-</td>
-</tr>
-</table>
-
-<!-- Elite Custom Analytics -->
-<div align="center">
-
-## 📊 **TECHNOLOGY PROFICIENCY MATRIX**
-
-<table align="center" style="border: none;">
-<tr>
-<td align="center" style="border: none;">
-
-### 🤖 **GENAI STACK**
-
-<table>
-<tr><td>🦜</td><td><b>LangChain/RAG</b></td><td><img src="https://img.shields.io/badge/Expert-00D4AA?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>🔮</td><td><b>GPT-4/Claude</b></td><td><img src="https://img.shields.io/badge/Advanced-FFD700?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>🎯</td><td><b>Vector DBs</b></td><td><img src="https://img.shields.io/badge/Expert-FF6B6B?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>⚡</td><td><b>Fine-tuning</b></td><td><img src="https://img.shields.io/badge/QLoRA/RLHF-4ECDC4?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>🔍</td><td><b>Semantic Search</b></td><td><img src="https://img.shields.io/badge/Expert-A8E6CF?style=for-the-badge&labelColor=0D1117"/></td></tr>
-</table>
-
-</td>
-<td align="center" style="border: none;">
-
-### ☁️ **CLOUD & DATA ENG**
-
-<table>
-<tr><td>☁️</td><td><b>AWS/Azure/GCP</b></td><td><img src="https://img.shields.io/badge/Multi--Cloud-FF9500?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>⚡</td><td><b>PySpark</b></td><td><img src="https://img.shields.io/badge/Expert-E25A1C?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>🌊</td><td><b>Kafka/Streaming</b></td><td><img src="https://img.shields.io/badge/Real--Time-000000?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>📊</td><td><b>Databricks</b></td><td><img src="https://img.shields.io/badge/Certified-FF3621?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>🔄</td><td><b>Airflow/ETL</b></td><td><img src="https://img.shields.io/badge/Advanced-017CEE?style=for-the-badge&labelColor=0D1117"/></td></tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-**🏆 KEY ACHIEVEMENTS:**
-<img src="https://img.shields.io/badge/📚_1_Research_Publication-success?style=for-the-badge&labelColor=2C3E50"/>
-<img src="https://img.shields.io/badge/🎓_UNT_Data_Science_Masters-blue?style=for-the-badge&labelColor=2C3E50"/>
-<img src="https://img.shields.io/badge/🚀_4+_Years_Experience-purple?style=for-the-badge&labelColor=2C3E50"/>
-<img src="https://img.shields.io/badge/✨_3_Cloud_Certifications-orange?style=for-the-badge&labelColor=2C3E50"/>
-
-</div>
-
-<!-- Elite Experience Section -->
-<div align="center">
-
-## 💼 **PROFESSIONAL EXCELLENCE TIMELINE**
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 **GENAI SPECIALIST**
-
-**`Brighthouse Financial • USA • Sept 2024 – Present`**
-
-<img src="https://img.shields.io/badge/🤖_RAG_&_LLM_Systems-FF6B6B?style=flat-square&labelColor=2C3E50"/>
-
-- **Multi-modal RAG Architecture**: GPT-4 + Claude + BERT for policy analysis
-- **Business Impact**: **40% reduction** in manual customer service calls
-- **AI-Powered Chatbots**: TensorFlow + Hugging Face transformers + OpenAI
-
-<img src="https://img.shields.io/badge/⚡_Model_Optimization-4ECDC4?style=flat-square&labelColor=2C3E50"/>
-
-- **Agentic Systems**: Pinecone + FAISS vector databases
-- **Fine-tuning Excellence**: Llama with RLHF + QLoRA
-- **Performance Gains**: **70% GPU memory reduction**, **30% faster training**
-
-<img src="https://img.shields.io/badge/📊_NLP_Innovation-F39C12?style=flat-square&labelColor=2C3E50"/>
-
-- **Text Processing**: NLTK + spaCy + scikit-learn pipeline
-- **Intelligent Orchestration**: LangChain dynamic prompt engineering
-- **User Personalization**: ML-driven feedback systems
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 **NEURAL NETWORK ENGINEER**
-
-**`Texas Instruments • USA • Feb 2023 – Jul 2024`**
-
-<img src="https://img.shields.io/badge/🎯_Deep_Learning_Excellence-E74C3C?style=flat-square&labelColor=2C3E50"/>
-
-- **Model Performance**: **91.68% F1 score** achieved
-- **Architecture**: Keras + PyTorch + Azure Databricks
-- **Optimization**: **35% complexity reduction** in neural networks
-
-<img src="https://img.shields.io/badge/🔍_Advanced_NLP-1ABC9C?style=flat-square&labelColor=2C3E50"/>
-
-- **Named Entity Recognition**: Custom NER models
-- **Sentiment Analysis**: VADER + custom classifiers
-- **Efficiency Boost**: **70% improvement** in text analysis
-
-<img src="https://img.shields.io/badge/🚀_MLOps_Pipeline-E67E22?style=flat-square&labelColor=2C3E50"/>
-
-- **Production Deployment**: Scalable APIs + automated pipelines
-- **Cloud Integration**: Azure DevOps + AWS SageMaker
-- **Deployment Speed**: **30% faster** model deployment
-- **Topic Modeling**: LDA with Plotly visualizations
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📊 **DATA ENGINEER**
-
-**`Deutsche Bank • India • May 2021 – Jul 2022`**
-
-<img src="https://img.shields.io/badge/⚡_Big_Data_Processing-9B59B6?style=flat-square&labelColor=2C3E50"/>
-
-- **Query Optimization**: **35% performance improvement**
-- **Distributed Computing**: PySpark + Spark SQL workflows
-- **Data Transformation**: **40% reduction** in processing time
-- **Analytics Boost**: **20% system efficiency** gains
-
-<img src="https://img.shields.io/badge/🌊_Real--Time_Streaming-3498DB?style=flat-square&labelColor=2C3E50"/>
-
-- **Streaming Architecture**: Google Cloud Pub/Sub + Kafka
-- **Data Volume**: **10 TB+** low-latency processing
-- **Storage**: HDFS + Spark SQL distributed systems
-
-<img src="https://img.shields.io/badge/🔄_ETL_Mastery-16A085?style=flat-square&labelColor=2C3E50"/>
-
-- **Pipeline Scale**: 100K to 2M records processing
-- **Speed**: Data cleaning in **2-10 minutes**
-- **Automation**: **100+ Airflow workflows** optimized
-- **Efficiency**: **25% operational improvement**
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 **DATA INSIGHTS ANALYST**
-
-**`Vodafone • India • Sept 2020 – May 2021`**
-
-<img src="https://img.shields.io/badge/💡_SQL_Optimization-E67E22?style=flat-square&labelColor=2C3E50"/>
-
-- **Performance Tuning**: **40% faster query execution**
-- **Architecture**: Stored procedures replacing complex joins
-- **Database Management**: Dev & production environments
-
-<img src="https://img.shields.io/badge/📊_Business_Intelligence-8E44AD?style=flat-square&labelColor=2C3E50"/>
-
-- **Dashboard Development**: Real-time performance tracking
-- **Cross-functional Leadership**: Data-driven decision making
-- **Stakeholder Reporting**: Executive-level insights
-
-</td>
-</tr>
-</table>
-
-<!-- Elite Project Showcase -->
-<div align="center">
-
-## 🔥 **FLAGSHIP PROJECT PORTFOLIO**
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 📺 **YOUTUBE TREND ANALYSIS**
-
-**Scalable AWS Data Pipeline**
-
-<img src="https://img.shields.io/badge/Scale-1M+_Daily_Records-FF6B6B?style=for-the-badge&labelColor=2C3E50"/>
-
-</div>
-
-**🛠️ TECHNOLOGY STACK**
-
-```yaml
-Cloud: AWS Ecosystem
-Storage: S3 • Secure IAM
-Processing: Glue • Lambda Functions
-Analytics: Athena • QuickSight
-Data Flow: Automated ETL Pipeline
-Scale: 1M+ records per day
-```
-
-**📊 TECHNICAL ACHIEVEMENTS**
-
-- ⚡ **Real-time Processing**: Sub-minute data ingestion
-- 🎯 **Accuracy**: **80%** prediction accuracy achieved
-- 🔄 **Automation**: Fully automated data pipeline
-- 📊 **Visualization**: Interactive QuickSight dashboards
-- 🚀 **Scalability**: Handles millions of records daily
-
-**🎯 KEY FEATURES**
-
-- Serverless architecture with Lambda
-- ETL automation with AWS Glue
-- Real-time trend visualization
-- Predictive analytics engine
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🔬 **RESEARCH PUBLICATION**
-
-**Materials Science AI Application**
-
-<img src="https://img.shields.io/badge/Status-Published-4ECDC4?style=for-the-badge&labelColor=2C3E50"/>
-
-</div>
-
-**📚 PUBLICATION DETAILS**
-
-```yaml
-Title: |
-  Artificial neural network modelling of 
-  aluminium/Al2O3/fly ash hybrid composites 
-  prepared by powder metallurgy
-
-Domain: Materials Science & AI
-Focus: Neural Network Predictive Modeling
-Application: Composite Material Properties
-Innovation: AI-driven materials optimization
-```
-
-**🎯 RESEARCH IMPACT**
-
-- 🧠 **Neural Networks**: Custom ANN architecture
-- 🔬 **Materials Science**: Hybrid composite analysis
-- 📈 **Predictive Modeling**: Material property prediction
-- ⚙️ **Manufacturing**: Powder metallurgy optimization
-- 📊 **Data Analysis**: Multi-variable correlation studies
-
-**💡 INNOVATION HIGHLIGHTS**
-
-- AI-powered materials discovery
-- Predictive property modeling
-- Manufacturing process optimization
-
-</td>
-</tr>
-</table>
-
-<!-- Elite Tech Stack -->
-<div align="center">
-
-## 🛠️ **COMPREHENSIVE TECHNOLOGY ARSENAL**
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### **🤖 GENAI & LLM ECOSYSTEM**
-
-<p align="center">
-<img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-181818?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
-</p>
-
-**CORE CAPABILITIES**
-
-- 🎯 **Multi-modal RAG Systems**
-- 🔮 **LLM Fine-tuning (QLoRA/RLHF)**
-- 🔍 **Vector Databases & Semantic Search**
-- ⚡ **Prompt Engineering & Orchestration**
-- 🤖 **Agentic AI Systems**
-
-</td>
-<td width="33%" valign="top">
-
-### **☁️ CLOUD & BIG DATA STACK**
-
-<p align="center">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-</p>
-
-**INFRASTRUCTURE EXPERTISE**
-
-- 🚀 **Multi-Cloud Architecture (AWS/Azure/GCP)**
-- ⚡ **PySpark & Distributed Computing**
-- 🌊 **Real-time Streaming (Kafka/Flink)**
-- 📊 **Data Warehousing (Snowflake/BigQuery)**
-- 🔄 **Workflow Orchestration (Airflow)**
-
-</td>
-<td width="33%" valign="top">
-
-### **🧠 ML/DL & DATA SCIENCE**
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-**ALGORITHMS & FRAMEWORKS**
-
-- 🧮 **Deep Learning (CNN/RNN/ANN/BERT)**
-- 📝 **NLP (NLTK/spaCy/Transformers)**
-- 🎯 **ML Algorithms (SVM/Random Forest/XGBoost)**
-- 📊 **Statistical Modeling (PCA/ROC/Chi-square)**
-- 🔄 **MLOps & Model Deployment**
-
-</td>
-</tr>
-</table>
-
-<!-- Database & Tools -->
-<div align="center">
-
-### **💾 DATABASES & DEVELOPMENT TOOLS**
-
-<p align="center">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-</div>
-
-<!-- Certifications -->
-<div align="center">
-
-## 🏅 **PROFESSIONAL CERTIFICATIONS**
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/><br/>
-**Oracle Cloud Infrastructure**<br/>
-**GenAI Certified Professional**
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/><br/>
-**Amazon Web Services**<br/>
-**Certified Cloud Practitioner**
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/><br/>
-**Databricks**<br/>
-**Certified Developer**
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Academic Excellence -->
-<div align="center">
-
-## 🎓 **ACADEMIC EXCELLENCE**
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
-
-### 🏆 **UNIVERSITY OF NORTH TEXAS**
-
-**Master's in Data Science**  
-_Denton, TX • GPA: 3.9/4.0_
-
-<img src="https://img.shields.io/badge/GPA-3.9/4.0-success?style=for-the-badge&labelColor=2C3E50"/>
-
-**📚 Advanced Coursework**
-
-- 🤖 Machine Learning & Deep Learning
-- 🧠 Natural Language Processing
-- 📊 Big Data Analytics & Processing
-- ☁️ Cloud Computing & MLOps
-- 📈 Statistical Modeling & Analysis
-- 🔬 Research Methods in Data Science
-
-**🏅 Academic Highlights**
-
-- Dean's List Recognition
-- Graduate Research Assistant
-- Advanced AI Specialization
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 🌟 **LAKIREDDY BALIREDDY COLLEGE**
-
-**Bachelor of Technology**  
-_India • 75%_
-
-<img src="https://img.shields.io/badge/Score-75%25-blue?style=for-the-badge&labelColor=2C3E50"/>
-
-**📚 Core Engineering Studies**
-
-- 💻 Computer Science Fundamentals
-- 🧮 Data Structures & Algorithms
-- 🔧 Software Engineering
-- 🗄️ Database Management Systems
-- 🌐 Computer Networks
-- 📊 Engineering Mathematics
-
-**🏅 Undergraduate Achievements**
-
-- Research Publication Author
-- Academic Excellence Awards
-- Technical Project Leadership
-
-</td>
-</tr>
-</table>
-
-<!-- Publications -->
-<div align="center">
-
-## 📝 **RESEARCH PUBLICATIONS**
-
-<table>
-<thead>
-<tr>
-<th align="left" width="60%">📄 Research Paper</th>
-<th align="center" width="20%">🏆 Domain</th>
-<th align="center" width="20%">🎯 Impact</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Artificial neural network modelling of aluminium/Al2O3/fly ash hybrid composites prepared by powder metallurgy</strong></td>
-<td align="center"><em>Materials Science & AI</em></td>
-<td align="center">🔬 AI-Materials Innovation</td>
-</tr>
-</tbody>
-</table>
-
-**📈 Research Focus**: Applying neural networks to predict and optimize material properties in advanced composite materials
-
-</div>
-
-<!-- Key Skills Matrix -->
-<div align="center">
-
-## 💡 **CORE COMPETENCIES MATRIX**
-
-<table width="100%">
-<tr>
-<td align="center" width="25%">
-
-**🤖 GENERATIVE AI**
-
-Multi-modal RAG<br/>
-LLM Fine-tuning<br/>
-Prompt Engineering<br/>
-Vector Databases<br/>
-Semantic Search
-
-</td>
-<td align="center" width="25%">
-
-**🔬 DATA SCIENCE**
-
-Deep Learning<br/>
-NLP & Computer Vision<br/>
-Statistical Modeling<br/>
-Predictive Analytics<br/>
-A/B Testing
-
-</td>
-<td align="center" width="25%">
-
-**⚙️ ML OPERATIONS**
-
-Model Deployment<br/>
-Pipeline Automation<br/>
-Cloud Infrastructure<br/>
-CI/CD for ML<br/>
-Monitoring & Scaling
-
-</td>
-<td align="center" width="25%">
-
-**📊 DATA ENGINEERING**
-
-ETL Pipelines<br/>
-Big Data Processing<br/>
-Real-time Streaming<br/>
-Data Warehousing<br/>
-Query Optimization
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Stats and Activity -->
-<div align="center">
-
-## 📈 **GITHUB ACTIVITY & CONTRIBUTIONS**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anushayaramala&custom_title=Annual%20Development%20Activity&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=8E2DE2&area=true&hide_border=true" width="95%" />
-
-<br/><br/>
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anushayaramala&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0&text_color=FFFFFF" width="400"/>
-</td>
-<td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anushayaramala&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" width="400"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushayaramala&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=FFFFFF" width="400"/>
-
-</div>
-
-<!-- Footer -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=footer&animation=twinkling" />
-
-### 🤝 **LET'S BUILD THE FUTURE WITH GENAI**
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://komarev.com/ghpvc/?username=anushayaramala&color=blueviolet&style=for-the-badge&label=Profile+Views" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/github/followers/anushayaramala?style=for-the-badge&color=8E2DE2&labelColor=0D1117&label=Followers" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Status-Open_to_Opportunities-success?style=for-the-badge&labelColor=2C3E50" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-> **"Transforming data into intelligence, one neural network at a time."**  
-> _— GenAI Specialist • Data Scientist • ML Engineer —_
-
-<br/>
-
-**🌟 Passionate about RAG systems, LLMs, and scalable ML solutions? Let's connect and innovate! 🚀**
-
-<p align="center">
-<img src="https://img.shields.io/badge/💼_Open_for-Full--Time_Opportunities-FF6B6B?style=for-the-badge&labelColor=2C3E50"/>
-<img src="https://img.shields.io/badge/📍_Preferred-Remote/Texas/Hybrid-4ECDC4?style=for-the-badge&labelColor=2C3E50"/>
-<img src="https://img.shields.io/badge/🎯_Focus-GenAI_&_MLOps-9B59B6?style=for-the-badge&labelColor=2C3E50"/>
-</p>
-
-</div>
