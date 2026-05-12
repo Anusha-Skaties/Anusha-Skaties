@@ -46,7 +46,7 @@ Building scalable GenAI solutions and LLM-powered systems that transform busines
 <img src="https://img.shields.io/badge/📱_+1_(940)_977--1496-FF6B6B?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=E74C3C"/>
 </td>
 <td align="center" width="250px">
-<img src="https://img.shields.io/badge/📧_anushayarasmala@gmail.com-4ECDC4?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=1ABC9C"/>
+<img src="https://img.shields.io/badge/📧_anushayaramala31@gmail.com-4ECDC4?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=1ABC9C"/>
 </td>
 <td align="center" width="200px">
 <img src="https://img.shields.io/badge/📍_Texas,_USA-F39C12?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=E67E22"/>
